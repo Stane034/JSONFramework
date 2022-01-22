@@ -1,0 +1,15 @@
+{
+  "name": "nodejsonconnectionhelper",
+  "version": "1.0.0",
+  "description": "Helping with JSON Connection",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JSON Connector"
+  },
+  "author": "return#1337",
+  "license": "ISC"
+}
