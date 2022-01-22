@@ -5,7 +5,7 @@ console.log('[i] Usage : \n');
 console.log('   [ createJSON ] - Enter the path where you want to create file and data such as tables');
 console.log('   [ printdataJSON ] - Enter the path where is your file and function will print data from JSON to Console.');
 console.log('   [ readfromJSON ] - Enter the path where is your file and function will return your JSON data.');
-console.log('   [ updateJSON ] - Enter the path and new data and the program will enter your data into a specific JSON file')
+console.log('   [ updateJSON ] - Enter the path and new data and the program will enter your data into a specific JSON file');
 console.log('\n[>] Follow me on github : https://github.com/Stane034');
 
 
