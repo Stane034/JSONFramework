@@ -1,4 +1,4 @@
 # JSONFramework
 Mini "framework" written in nodejs
-Usage : node main.js
+\nUsage : node main.js
 
